@@ -7,22 +7,17 @@ These are the other places where I’m active.
 
 ---
 
-### 🎮 Steam  
-My main gaming platform — play history, achievements, and reviews.  
-https://steamcommunity.com/profiles/76561198159656909
+### 🎮 [Steam](https://steamcommunity.com/profiles/76561198159656909)
+My main gaming platform — play history, achievements, and reviews.
 
-### 📝 GGApp  
-An archive of my written game reviews.  
-https://ggapp.io/HapiSingh
+### 📝 [GGApp](https://ggapp.io/HapiSingh)
+An archive of my written game reviews.
 
-### 💬 Discord  
-Where I’m most active and easiest to reach.  
+### 💬 Discord
 **hapisingh**
 
-### 🐦 Twitter
-Short thoughts, reactions, and occasional updates.  
-https://x.com/HapiLover
+### 🐦 [Twitter / X](https://x.com/HapiLover)
+Short thoughts, reactions, and occasional updates.
 
-### ▶️ YouTube  
-Video content, experiments, and archives.  
-https://www.youtube.com/@Hapi_Singh
+### ▶️ [YouTube](https://www.youtube.com/@Hapi_Singh)
+Video content, experiments, and archives.
