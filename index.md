@@ -19,3 +19,7 @@ I also play **Dragon Quest X**, and I’ll occasionally write about my adventure
 
 
 I write when I feel like it.
+
+## Recent Updates
+
+- **2026-01-15** — Set up the site structure and wrote about why this space exists.
