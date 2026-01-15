@@ -14,6 +14,7 @@ I also play **Dragon Quest X**, and I’ll occasionally write about my adventure
 - [Reviews](reviews.md)
 - [Dragon Quest X](dqx.md)
 - [Thoughts](thoughts.md)
+- [Presence](presence.md)
 
 
 I write when I feel like it.
