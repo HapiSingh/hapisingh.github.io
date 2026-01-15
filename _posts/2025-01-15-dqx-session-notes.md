@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DQX Session Notes"
-date: 2026-01-15
+date: 2025-01-15
 categories: [DQX]
 tags:
   - DQX
@@ -9,6 +9,7 @@ tags:
   - 防衛軍
   - 白雲の冥翼兵団
   - Delmeze
+permalink: /dqx-session-notes/
 ---
 
 Today I played more DQX then usual, we did ADF for an hour, this time it was white wings, I got A THIRD light 42% resistance shield and was so upset, I threw it out immediately
