@@ -1,0 +1,51 @@
+---
+layout: post
+title: "DQX Session Notes"
+date: 2026-01-15
+categories: [DQX]
+tags:
+  - DQX
+  - ADF
+  - 防衛軍
+  - 白雲の冥翼兵団
+  - Delmeze
+---
+
+Today I played more DQX then usual, we did ADF for an hour, this time it was white wings, I got A THIRD light 42% resistance shield and was so upset, I threw it out immediately
+
+The entire group was talking about how many languages I speak, I don't think it's anything special, but it felt nice to be noticed, I don't usually feel that way
+
+I got a video recorded of it too with decent gameplay, just good to have more footage of the game on the internet
+
+**YouTube (full video):** https://youtu.be/woXRB31poLg?si=UYn8wket7Ueh-Jmf
+
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/woXRB31poLg?si=UYn8wket7Ueh-Jmf"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+I also went back to Delmeze, played with Mole and Mahou, we did 1 meal, we didn't win but, it was fun and the banter was light and friendly, helped me feel accepted and not ashamed
+
+**Stream VOD (played with Mole & Mahou):**  
+https://www.youtube.com/live/UOWe4WFl-4g?si=qR6Ruoawo8_u2uWh
+
+I was pretty rusty though, maybe I should get back to the game some more, but there's just so much that make it inconvenient... It'll take some time for sure
+
+I also took several pictures with some friends, it was awesome, I am glad they were so receptive to it
+
+## Photos
+
+![DQX Photo 1](/assets/images/dqx/2026-01-15/photo-01.jpg)
+![DQX Photo 2](/assets/images/dqx/2026-01-15/photo-02.jpg)
+![DQX Photo 3](/assets/images/dqx/2026-01-15/photo-03.jpg)
+![DQX Photo 4](/assets/images/dqx/2026-01-15/photo-04.jpg)
+
+## Video Clip
+
+<video controls playsinline preload="metadata" style="max-width: 100%; height: auto;">
+  <source src="/assets/videos/dqx/2026-01-15/clip-01.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
