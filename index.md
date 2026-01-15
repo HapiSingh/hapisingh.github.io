@@ -1,4 +1,3 @@
-# 
 *Games, thoughts, and adventures*
 ---
 
