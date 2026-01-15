@@ -298,6 +298,7 @@ Any deeper reflection lives elsewhere on the site.
 
 ## P
 - Path of Giants
+- PEAK
 - Persona 4 Golden
 - Persona 5 Royal
 - Phoenix Wright: Ace Attorney
