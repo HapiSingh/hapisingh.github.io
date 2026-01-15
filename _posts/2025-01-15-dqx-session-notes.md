@@ -49,3 +49,6 @@ I also took several pictures with some friends, it was awesome, I am glad they w
   <source src="/assets/videos/dqx/2026-01-15/clip-01.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+I also met a new foreigner player, he seems to be interested in battle contents which was cool, gives me motivation to play the game more. I'd like to feel healthier soon and get back to streaming it so that way there's more endgame english content in the world. Or high level english content
