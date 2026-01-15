@@ -1,11 +1,19 @@
 # Reviews
 
-This is where I write longer thoughts about games I’ve played.
-These are scored reviews, but the score is meant to reflect my personal experience rather than any claim of objectivity.
+This page is a timeline of reviews I’ve written and shared here as I go.
 
-I care more about how a game *feels* than how it performs on a checklist.
-Movement, pacing, atmosphere, and intent matter a lot to me, and those tend to shape both my writing and the final score.
+These are scored reviews, reflecting my personal experience rather than any claim of objectivity.  
+I care most about how a game *feels* — movement, pacing, atmosphere, and intent tend to matter more to me than polish alone.
 
-Some reviews are long.
-Some are short.
-All of them are written honestly, with context and reflection in mind.
+New reviews appear here when I write them.
+
+---
+
+## Recent Reviews
+
+*(No entries yet.)*
+
+---
+
+A complete archive of past reviews is available here:  
+[Reviews Archive](reviews-archive.md)
