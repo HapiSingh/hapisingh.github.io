@@ -342,6 +342,7 @@ Any deeper reflection lives elsewhere on the site.
 - Risk of Rain Returns
 - River City Girls
 - Roblox
+- Rockman.EXE WS
 - ROUNDS
 - Run Elephant Run
 
