@@ -34,6 +34,9 @@ https://www.youtube.com/live/UOWe4WFl-4g?si=qR6Ruoawo8_u2uWh
 
 I was pretty rusty though, maybe I should get back to the game some more, but there's just so much that make it inconvenient... It'll take some time for sure
 
+
+I also met a new foreigner player, he seems to be interested in battle contents which was cool, gives me motivation to play the game more. I'd like to feel healthier soon and get back to streaming it so that way there's more endgame english content in the world. Or high level english content
+
 I also took several pictures with some friends, it was awesome, I am glad they were so receptive to it
 
 ## Photos
@@ -50,5 +53,3 @@ I also took several pictures with some friends, it was awesome, I am glad they w
   Your browser does not support the video tag.
 </video>
 
-
-I also met a new foreigner player, he seems to be interested in battle contents which was cool, gives me motivation to play the game more. I'd like to feel healthier soon and get back to streaming it so that way there's more endgame english content in the world. Or high level english content
