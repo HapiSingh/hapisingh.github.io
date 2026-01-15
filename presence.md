@@ -16,7 +16,7 @@ An archive of my written game reviews.
 ### 💬 Discord
 **hapisingh**
 
-### 🐦 [Twitter / X](https://x.com/HapiLover)
+### 🐦 [Twitter](https://x.com/HapiLover)
 Short thoughts, reactions, and occasional updates.
 
 ### ▶️ [YouTube](https://www.youtube.com/@Hapi_Singh)
