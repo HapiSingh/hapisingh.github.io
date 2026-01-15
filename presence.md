@@ -19,7 +19,7 @@ https://ggapp.io/HapiSingh
 Where I’m most active and easiest to reach.  
 **hapisingh**
 
-### 🐦 Twitter / X  
+### 🐦 Twitter
 Short thoughts, reactions, and occasional updates.  
 https://x.com/HapiLover
 
