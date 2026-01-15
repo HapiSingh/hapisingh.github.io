@@ -1,20 +1,21 @@
 # Games I’ve Beaten
 
-This page is a simple record of games I’ve finished.
-It’s not a backlog or a checklist — just a place to remember what I’ve played.
+This is a personal record of games I’ve finished, organized by their original release year.
+It’s not meant to be exhaustive or perfect — just a way to remember what I’ve played.
 
 ---
 
-## Console & Handheld
+## 1987
+- Mega Man
 
-- Mega Man: Dr. Wily’s Revenge (Mega Man World)
-- Mega Man II (Mega Man World 2)
+## 1991
+- Mega Man II
+
+## 1993
 - Mega Man X
+
+## 1994
 - Mega Man X2
+
+## 1998
 - Mega Man & Bass
-
----
-
-## PC
-
-- (add as you go)
