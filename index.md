@@ -1,5 +1,4 @@
-# Hapi Singh
-
+# 
 *Games, thoughts, and adventures*
 ---
 
