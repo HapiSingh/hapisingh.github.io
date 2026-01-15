@@ -1,5 +1,6 @@
----
-title: Hapi Singh — Games, Thoughts, and Adventures
+# Hapi Singh
+
+*Games, thoughts, and adventures*
 ---
 
 Hi, I’m Hapi.
