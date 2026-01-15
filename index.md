@@ -5,7 +5,7 @@
 
 Hi, I’m Hapi.
 
-This is a personal space where I write about the games I’ve played, the ones I’m currently playing, and the ones that stuck with me long after the credits rolled.
+This is a personal space where I write about the games I’ve played, and the ones that stuck with me long after the credits rolled.
 
 I mostly play RPGs, action games, and older titles, and I like writing about *how* games feel — not just whether they’re “good” or “bad.”
 
