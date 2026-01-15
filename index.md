@@ -22,4 +22,5 @@ I write when I feel like it.
 
 ## Recent Updates
 
+- **2026-01-15** — Added new thoughts about making this website
 - **2026-01-15** — Set up the site structure and wrote about why this space exists.
