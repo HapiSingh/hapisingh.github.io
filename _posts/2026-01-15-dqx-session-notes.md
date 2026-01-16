@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DQX Session Notes"
-date: 2025-01-15
+date: 2026-01-15
 categories: [DQX]
 tags:
   - DQX
