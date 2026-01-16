@@ -12,8 +12,8 @@ This space exists to tell *my* story with DQX, not to explain how the game works
 
 ## Latest
 
-- **2026-01-15** — [DQX Session Notes](/dqx/2026-01-15/)
+- **2026-01-15** — [Short Return to DQX](/dqx/2026-01-15/)
 
 ## Archive
 
-- **2026-01-15** — [DQX Session Notes](/dqx/2026-01-15/)
+- **2026-01-15** — [Short Return to DQX](/dqx/2026-01-15/)
