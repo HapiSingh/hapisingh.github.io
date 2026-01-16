@@ -152,6 +152,7 @@ Any deeper reflection lives elsewhere on the site.
 - Helltaker
 - Hi-Fi RUSH
 - Hogwarts Legacy
+- HoleHole
 - Hollow Knight
 - Hyrule Warriors
 - Hyrule Warriors: Age of Imprisonment
@@ -193,6 +194,7 @@ Any deeper reflection lives elsewhere on the site.
 - Krunker
 
 ## L
+- Lara Croft GO
 - Lethal League
 - Lethal League Blaze
 - Like a Dragon Gaiden: The Man Who Erased His Name
@@ -243,6 +245,7 @@ Any deeper reflection lives elsewhere on the site.
 - Mega Man 11
 - Mega Man & Bass
 - Mega Man II
+- Mega Man The Puzzle Battle
 - Mega Man X
 - Mega Man X2
 - Mega Man X3
@@ -276,6 +279,7 @@ Any deeper reflection lives elsewhere on the site.
 - MultiVersus
 
 ## N
+- Necrozone
 - NEEDY STREAMER OVERLOAD: Typing of The Net
 - New Play Control! Metroid Prime 2: Dark Echoes
 - New Play Control! Pikmin
@@ -286,7 +290,7 @@ Any deeper reflection lives elsewhere on the site.
 - New Super Mario Bros. Wii
 - Nintendo Land
 - Nintendo Switch 2 Welcome Tour
-- Necrozone
+- Night Nite
 
 ## O
 - OCTOPATH TRAVELER™
