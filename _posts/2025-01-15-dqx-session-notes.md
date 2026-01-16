@@ -31,14 +31,16 @@ I got a video recorded of it too with decent gameplay, just good to have more fo
 I also went back to Delmeze, played with Mole and Mahou, we did 1 meal, we didn't win but, it was fun and the banter was light and friendly, helped me feel accepted and not ashamed
 
 **Stream VOD (played with Mole & Mahou):**  
-https://www.youtube.com/live/UOWe4WFl-4g?si=qR6Ruoawo8_u2uWh
+https://www.youtube.com/live/UOWe4WFl-4g
+
 <iframe width="560" height="315"
-  src="https://www.youtube.com/live/UOWe4WFl-4g?si=qR6Ruoawo8_u2uWh"
+  src="https://www.youtube.com/embed/UOWe4WFl-4g"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
 
 I was pretty rusty though, maybe I should get back to the game some more, but there's just so much that make it inconvenient... It'll take some time for sure
 
@@ -49,16 +51,7 @@ I also took several pictures with some friends, it was awesome, I am glad they w
 
 ## Photos
 
-![DQX Photo 1](/assets/images/dqx/2026-01/Screenshot%202026-01-15%2001.png)
-![DQX Photo 2](/assets/images/dqx/2026-01/Screenshot%202026-01-15%2002.png)
-![DQX Photo 3](/assets/images/dqx/2026-01/Screenshot%202026-01-15%2003.png)
-![DQX Photo 4](/assets/images/dqx/2026-01/Screenshot%202026-01-15%2004.png)
-
-
-## Video Clip
-
-<video controls playsinline preload="metadata" style="max-width: 100%; height: auto;">
-  <source src="/assets/videos/Susururu%20and%20Tartaruu%20fall%20(low).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![DQX Photo 1](/assets/images/dqx/2026-01/Screenshot2026-01-15_01.png)
+![DQX Photo 2](/assets/images/dqx/2026-01/Screenshot2026-01-15_02.png)
+![DQX Photo 3](/assets/images/dqx/2026-01/Screenshot2026-01-15_03.png)
+![DQX Photo 4](/assets/images/dqx/2026-01/Screenshot2026-01-15_04.png)
