@@ -11,11 +11,17 @@
 <body>
   <main class="wrap">
 
-    <h1>Lara Croft GO</h1>
+<h1>Lara Croft GO</h1>
 
-    <p class="subtitle">
-      Puzzle · PC · Short & sweet
-    </p>
+<img
+  src="/assets/reviews/LaraCroftGO/library_hero_2x.jpg"
+  alt="Lara Croft GO promotional image"
+>
+
+<p class="subtitle">
+  Puzzle · PC · Short & sweet
+</p>
+
 
     <!-- Optional image (remove if you don't want it) -->
     <!--
