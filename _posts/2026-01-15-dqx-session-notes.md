@@ -51,7 +51,8 @@ I also took several pictures with some friends, it was awesome, I am glad they w
 
 ## Photos
 
-![DQX Photo 1](/assets/images/dqx/2026-01/Screenshot2026-01-15_01.png)
-![DQX Photo 2](/assets/images/dqx/2026-01/Screenshot2026-01-15_02.png)
-![DQX Photo 3](/assets/images/dqx/2026-01/Screenshot2026-01-15_11.png)
-![DQX Photo 4](/assets/images/dqx/2026-01/Screenshot2026-01-15_10.png)
+![DQX Photo 1](/assets/images/dqx/2026-01/Screenshot%202026-01-15%20050238.png)
+![DQX Photo 2](/assets/images/dqx/2026-01/Screenshot%202026-01-15%20051311.png)
+![DQX Photo 3](/assets/images/dqx/2026-01/Screenshot%202026-01-15%20054241.png)
+![DQX Photo 4](/assets/images/dqx/2026-01/Screenshot2026-01-15_11.png)
+
