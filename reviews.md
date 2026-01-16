@@ -11,7 +11,7 @@ New reviews appear here when I write them.
 
 ## Recent Reviews
 
-*(No entries yet.)*
+# [Lara Croft GO](reviews/Lara-Croft-GO.md)
 
 ---
 
