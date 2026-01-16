@@ -9,3 +9,11 @@ Sometimes that means celebrating clears and achievements.
 Sometimes it means being honest about burnout, balance, or stepping away for a while.
 
 This space exists to tell *my* story with DQX, not to explain how the game works.
+
+## Latest
+
+- **2026-01-15** — [DQX Session Notes](/dqx/2026-01-15/)
+
+## Archive
+
+- **2026-01-15** — [DQX Session Notes](/dqx/2026-01-15/)
