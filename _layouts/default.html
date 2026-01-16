@@ -1,10 +1,125 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ page.title }} · {{ site.title }}</title>
+
+  <style>
+    :root{
+      --bg:#0b0f14;
+      --panel:#0f1621;
+      --text:#e6edf3;
+      --muted:#9aa7b2;
+      --link:#7dd3fc;
+      --border:rgba(255,255,255,.10);
+      --max: 860px;
+    }
+
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      font: 16px/1.65 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;
+      background: radial-gradient(1200px 700px at 15% 0%, rgba(125,211,252,.12), transparent 60%),
+                  radial-gradient(900px 600px at 90% 10%, rgba(167,139,250,.10), transparent 55%),
+                  var(--bg);
+      color:var(--text);
+    }
+
+    a{ color:var(--link); text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+
+    header{
+      border-bottom:1px solid var(--border);
+      background: rgba(15,22,33,.65);
+      backdrop-filter: blur(10px);
+    }
+    .wrap{ max-width:var(--max); margin:0 auto; padding: 18px 18px; }
+    .brand{
+      display:flex; gap:14px; align-items:baseline; justify-content:space-between;
+      flex-wrap:wrap;
+    }
+    .brand h1{ font-size:18px; margin:0; letter-spacing:.2px; }
+    .brand .sub{ color:var(--muted); font-size:13px; }
+
+    nav{ margin-top:10px; display:flex; gap:14px; flex-wrap:wrap; }
+    nav a{
+      padding:6px 10px;
+      border:1px solid var(--border);
+      border-radius:10px;
+      background: rgba(255,255,255,.03);
+    }
+
+    main{ padding: 26px 18px; }
+    article{
+      max-width:var(--max);
+      margin: 0 auto;
+      padding: 22px 22px;
+      background: rgba(15,22,33,.72);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: 0 10px 35px rgba(0,0,0,.35);
+    }
+
+    h1,h2,h3{ line-height:1.25; }
+    h1{ margin-top:0; }
+    hr{ border:0; border-top:1px solid var(--border); margin: 18px 0; }
+
+    code, pre{
+      font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+      font-size: 0.95em;
+    }
+    pre{
+      padding: 14px;
+      overflow:auto;
+      background: rgba(0,0,0,.35);
+      border:1px solid var(--border);
+      border-radius: 12px;
+    }
+
+    img, video, iframe{
+      max-width:100%;
+      height:auto;
+      border-radius: 12px;
+      border:1px solid var(--border);
+    }
+
+    footer{
+      color:var(--muted);
+      font-size:13px;
+      padding: 18px;
+      text-align:center;
+    }
+  </style>
 </head>
+
 <body>
-  {{ content }}
+  <header>
+    <div class="wrap">
+      <div class="brand">
+        <div>
+          <h1><a href="/">{{ site.title | default: "HapiSingh" }}</a></h1>
+          <div class="sub">{{ site.description | default: "Games, reviews, and DQX adventures." }}</div>
+        </div>
+      </div>
+
+      <nav>
+        <a href="/">Home</a>
+        <a href="/games">Games</a>
+        <a href="/reviews">Reviews</a>
+        <a href="/dqx">DQX</a>
+        <a href="/thoughts">Thoughts</a>
+        <a href="/presence">Presence</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>© {{ "now" | date: "%Y" }} {{ site.title | default: "HapiSingh" }}</footer>
 </body>
 </html>
