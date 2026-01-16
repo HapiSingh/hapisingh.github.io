@@ -1,9 +1,8 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>REVIEW — Night Nite</title>
+  <title>REVIEW — night nite</title>
 
   <!-- do not touch -->
   <link rel="stylesheet" href="/assets/style.css" />
@@ -12,14 +11,22 @@
 <body>
   <main class="wrap">
 
-    <h1>Night Nite</h1>
+<h1>night nite</h1>
+
 <img
   src="/assets/reviews/night-nite/library_hero_2x.jpg"
   alt="night nite promotional image"
 >
-    <p class="subtitle">
-      Walking Simulator · PC · 15–20 minutes
-    </p>
+
+<p class="subtitle">
+  Walking Simulator · PC
+</p>
+
+
+    <!-- Optional image (remove if you don't want it) -->
+    <!--
+    <img src="/assets/reviews/lara-croft-go/cover.jpg" alt="Lara Croft GO cover art">
+    -->
 
     <section class="review">
       <p>
@@ -35,9 +42,9 @@
         It’s just a silly short time.
         Better than Mega Man 7.
       </p>
-    </section>
 
-    <p><a href="/reviews.html">← Back to Reviews</a></p>
+<p><a href="/reviews.html">← Back to Reviews</a></p>
+
 
   </main>
 </body>
