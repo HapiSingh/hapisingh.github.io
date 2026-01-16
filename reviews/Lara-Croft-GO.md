@@ -48,9 +48,6 @@
     </section>
 
     <section class="meta">
-      <p>Status: Beaten</p>
-      <p>Price paid: ~$2</p>
-      <p>Recommended: Conditional</p>
     </section>
 
     <p><a href="/reviews/">← Back to Reviews</a></p>
