@@ -87,6 +87,7 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 - Kirby’s Dream Land
 
 ## L
+- [Lara Croft GO](reviews/Lara-Croft-GO.md)
 - Like a Dragon Gaiden: The Man Who Erased His Name
 - Lost Judgment
 - Lost Judgment – The Kaito Files
