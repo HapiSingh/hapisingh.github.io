@@ -126,7 +126,7 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 
 ## N
 - Necrozone
-- [night nite](reviews/night%20nite.md)
+- night nite
 
 ## O
 - Oik
