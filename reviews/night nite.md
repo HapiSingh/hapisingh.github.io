@@ -14,7 +14,7 @@
 
     <h1>Night Nite</h1>
 <img
-  src="/assets/reviews/night nite/library_hero_2x.jpg"
+  src="/assets/reviews/night-nite/library_hero_2x.jpg"
   alt="night nite promotional image"
 >
     <p class="subtitle">
