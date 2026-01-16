@@ -50,7 +50,8 @@
     <section class="meta">
     </section>
 
-    <p><a href="/reviews/">← Back to Reviews</a></p>
+<p><a href="/reviews.html">← Back to Reviews</a></p>
+
 
   </main>
 </body>
