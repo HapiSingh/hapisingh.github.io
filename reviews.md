@@ -11,7 +11,9 @@ New reviews appear here when I write them.
 
 ## Recent Reviews
 
+### [Mega Man World III](reviews/mega-man-world-3.md)
 ### [Lara Croft GO](reviews/Lara-Croft-GO.md)
+### [night nite](reviews/night-nite.md)
 
 ---
 
