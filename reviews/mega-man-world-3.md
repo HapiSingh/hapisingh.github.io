@@ -19,7 +19,7 @@
     >
 
     <p class="subtitle">
-      Action Platformer · Game Boy · Classic Mega Man
+      Action Platformer · Game Boy
     </p>
 
 
