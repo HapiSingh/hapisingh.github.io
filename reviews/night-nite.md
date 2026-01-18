@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>REVIEW — Lara Croft GO</title>
+  <title>REVIEW — Night Nite</title>
 
   <!-- do not touch -->
   <link rel="stylesheet" href="/assets/style.css" />
@@ -11,53 +11,34 @@
 <body>
   <main class="wrap">
 
-<h1>Lara Croft GO</h1>
+    <h1>Night Nite</h1>
 
-<img
-  src="/assets/reviews/LaraCroftGO/library_hero_2x.jpg"
-  alt="Lara Croft GO promotional image"
->
+    <img
+      src="/assets/reviews/night-nite/library_hero_2x.jpg"
+      alt="Night Nite promotional image"
+    >
 
-<p class="subtitle">
-  Puzzle · PC · Short & sweet
-</p>
-
-
-    <!-- Optional image (remove if you don't want it) -->
-    <!--
-    <img src="/assets/reviews/lara-croft-go/cover.jpg" alt="Lara Croft GO cover art">
-    -->
+    <p class="subtitle">
+      Walking Simulator · PC
+    </p>
 
     <section class="review">
       <p>
-        Lara Croft GO is actually a really solid puzzle game. I’ve never played a Tomb Raider game before,
-        and from what I understand this isn’t representative of the main series anyway, so I’m judging it
-        purely as a puzzle experience.
+        Silly short 15–20 minute game where your wife leaves you,
+        and then you get haunted by a ghost cat.
       </p>
 
       <p>
-        For under $2, I had a genuinely good time. The puzzles are fun, the set pieces are interesting,
-        and it’s short, sweet, and easy to play casually without much mental overhead.
+        That’s basically it.
       </p>
 
       <p>
-        The biggest problem, though, is the controls. They’re atrocious on PC. The game is clearly designed
-        for mobile and barely adapted at all — you still “swipe” to move, which leads to constant misinputs.
-        Using a controller doesn’t really fix this either and still feels awkward.
-      </p>
-
-      <p>
-        Overall, it’s fine. I wouldn’t recommend it as anything special, but if you go in with the right
-        expectations, it’s a short, enjoyable puzzle game that does its job. And honestly? Still better
-        than Mega Man 7.
+        It’s just a silly short time.
+        Better than Mega Man 7.
       </p>
     </section>
 
-    <section class="meta">
-    </section>
-
-<p><a href="/reviews.html">← Back to Reviews</a></p>
-
+    <p><a href="/reviews.html">← Back to Reviews</a></p>
 
   </main>
 </body>
