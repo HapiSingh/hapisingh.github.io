@@ -10,6 +10,12 @@ Sometimes it might not even be about games at all.
 There’s no structure here, and no expectation to post regularly.
 If something feels worth putting into words, it goes here.
 
+**2026-01-17**
+
+---
+
+
+One day I'm gonna have to add my entire backlog of steam game reviews and GGapp game reviews to this website, I wonder if there's a way to automate it... probably not, it's just gonna have to be a grueling one by one process I'll get to isn't it, I've written too many reviews haha
 
 **2026-01-15**
 
