@@ -106,6 +106,7 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 - Mega Man 10
 - Mega Man 11
 - Mega Man II
+- [Mega Man III](reviews/mega-man-world-3.md)
 - Mega Man Legacy Collection
 - Mega Man Legacy Collection 2
 - Mega Man X
@@ -126,7 +127,7 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 
 ## N
 - Necrozone
-- night nite
+- [night nite](reviews/night-nite.md)
 
 ## O
 - Oik
