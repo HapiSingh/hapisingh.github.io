@@ -14,9 +14,15 @@
 
     <h1>Mega Man World 3</h1>
 
+    <img
+      src="/assets/reviews/mega-man-world-3/891517ed336bc63566261723d2a45118.png"
+      alt="Mega Man World 3 image"
+    >
+
     <p class="subtitle">
       Action Platformer · Game Boy · Classic Mega Man
     </p>
+
 
     <section class="review">
       <p>
