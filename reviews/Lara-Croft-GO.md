@@ -19,7 +19,7 @@
 >
 
 <p class="subtitle">
-  Puzzle · PC · Short & sweet
+  Puzzle · PC
 </p>
 
 
