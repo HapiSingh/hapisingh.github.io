@@ -245,6 +245,7 @@ Any deeper reflection lives elsewhere on the site.
 - Mega Man 11
 - Mega Man & Bass
 - Mega Man II
+- Mega Man III
 - Mega Man The Puzzle Battle
 - Mega Man X
 - Mega Man X2
