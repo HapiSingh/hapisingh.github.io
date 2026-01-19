@@ -12,6 +12,7 @@ This space exists to tell *my* story with DQX, not to explain how the game works
 
 ## Latest
 
+- **2026-01-19** — [Hanging Out in Astoltia](/dqx/2026-01-19/)
 - **2026-01-15** — [Short Return to DQX](/dqx/2026-01-15/)
 
 ## Archive
