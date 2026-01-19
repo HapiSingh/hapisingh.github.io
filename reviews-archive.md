@@ -131,7 +131,7 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 
 ## O
 - Oik
-- [Ōkami HD](reviews/Okami-HD)
+- [Ōkami HD](reviews/Okami-HD.md)
 - Out Bike the Tsunami™
 
 ## P
