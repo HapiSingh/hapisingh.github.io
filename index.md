@@ -27,7 +27,8 @@ I write when I feel like it.
 
 ## Recent Updates
 
-- **2026-01-16** — Added Mega Man World 3 to games cleared, and wrote reviews on [Mega Man World 3](reviews/mega-man-world-3.md) and [night nite](reviews/night-nite.md)
+- **2026-01-19** - Added [Ōkami HD to games cleared and wrote a review on [Ōkami HD](reviews/Okami-HD.md)
+- **2026-01-17** — Added Mega Man World 3 to games cleared, and wrote reviews on [Mega Man World 3](reviews/mega-man-world-3.md) and [night nite](reviews/night-nite.md)
 - **2026-01-16** — Wrote a review on [Lara Croft GO](reviews/Lara-Croft-GO.md)
 - **2026-01-15** — Added Night Nite, Mega Man: The Puzzle Battle, HoleHole, PEAK, and Lara Croft GO to the games cleared
 - **2026-01-15** — Added DQX Blog [Short Return to DQX](/dqx/2026-01-15/)
