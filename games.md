@@ -297,6 +297,7 @@ Any deeper reflection lives elsewhere on the site.
 - OCTOPATH TRAVELER™
 - Obey! The Game
 - Oik
+- Ōkami HD
 - Ori and the Blind Forest
 - Ori and the Will of the Wisps
 - Out Bike the Tsunami™
