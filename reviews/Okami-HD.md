@@ -1,10 +1,10 @@
 <h1>Ōkami HD</h1>
 
-<img
-  src="/assets/reviews/Okami-HD/f80afec6b887f5f8a5c7ca6bdb08a769.jpg"
-  alt="Okami HD image"
+  <img
+    src="/assets/reviews/Okami-HD/f80afec6b887f5f8a5c7ca6bdb08a769.jpg"
+    alt="Okami HD image"
 >
-<p class="subtitle">
+  <p class="subtitle">
   Action Adventure · PC
 </p>
 
