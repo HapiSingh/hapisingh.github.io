@@ -1,5 +1,7 @@
 # Azaran: The Demon Bottle
 
+![Azaran: The Demon Bottle image](/assets/reviews/Azaran:The-Demon-Bottle/header_2x.jpg)
+
 Puzzle Adventure · PC
 
 Azaran: The Demon Bottle is a really solid Zelda 1–style dungeon game, with a heavy emphasis on puzzles rather than combat.
