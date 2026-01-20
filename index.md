@@ -27,7 +27,7 @@ I write when I feel like it.
 
 ## Recent Updates
 
-
+- **2026-01-19** - Cleared [Azaran: The Demon Bottle](reviews/Azaran:The-Demon-Bottle.md) and wrote a review
 - **2026-01-19** - Added DQX Blog [Hanging Out in Astoltia](/dqx/2026-01-19/)
 - **2026-01-19** - Added Ōkami HD to games cleared and wrote a review on [Ōkami HD](reviews/Okami-HD.md)
 - **2026-01-17** — Added Mega Man World 3 to games cleared, and wrote reviews on [Mega Man World 3](reviews/mega-man-world-3.md) and [night nite](reviews/night-nite.md)
