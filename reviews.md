@@ -11,7 +11,7 @@ New reviews appear here when I write them.
 
 ## Recent Reviews
 
-### [Azaran: The Demon Bottle](Azaran:The-Demon-Bottle.md)
+### [Azaran: The Demon Bottle](reviews/Azaran:The-Demon-Bottle.md)
 ### [Ōkami HD](reviews/Okami-HD.md)
 ### [Mega Man World III](reviews/mega-man-world-3.md)
 ### [Lara Croft GO](reviews/Lara-Croft-GO.md)
