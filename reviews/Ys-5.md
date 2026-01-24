@@ -1,5 +1,7 @@
 # Ys V: Kefin, Lost Kingdom of Sand
 
+![Ys 5 Image](/assets/reviews/Ys-5/image.png)
+
 Action RPG · PlayStation 2 (2006)
 
 Ys V is a game that left me genuinely disappointed, not because it is outright terrible, but because it so clearly could have been great.
