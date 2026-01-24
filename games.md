@@ -503,6 +503,7 @@ Any deeper reflection lives elsewhere on the site.
 - Ys I
 - Ys II
 - Ys I & II Chronicles+
+- Ys V: Kefin
 - Ys Origin
 - Ys SEVEN
 - Ys VIII: Lacrimosa of DANA
