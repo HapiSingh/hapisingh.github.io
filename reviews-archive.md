@@ -214,6 +214,7 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 - Yakuza: Like a Dragon
 - Ys I & II Chronicles+
 - Ys Origin
+- [Ys V Kefin](reviews/Ys-5.md)
 - Ys SEVEN
 - Ys VIII: Lacrimosa of DANA
 - Ys IX: Monstrum Nox
