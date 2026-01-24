@@ -17,6 +17,7 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 - Adolescent Santa Claus
 - AM2R – Return of Samus
 - Astro’s Playroom
+- [Awaria](reviews/Awaria.md)
 - [Azaran: The Demon Bottle](reviews/Azaran:The-Demon-Bottle.md)
 
 ## B
