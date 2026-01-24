@@ -32,7 +32,7 @@ Any deeper reflection lives elsewhere on the site.
 - Ascent
 - Astro’s Playroom
 - Atelier Rorona ~The Alchemist of Arland~ DX
-- [Awaria](reviews/Awaria.md)
+- Awaria
 - Azaran: The Demon Bottle
 - Azure Striker Gunvolt
 - Azure Striker Gunvolt 2
