@@ -27,6 +27,7 @@ I write when I feel like it.
 
 ## Recent Updates
 
+- **2026-01-23** - Cleared [Ys V Kefin](reviews/Ys-5.md) and wrote a review
 - **2026-01-19** - Cleared [Azaran: The Demon Bottle](reviews/Azaran:The-Demon-Bottle.md) and wrote a review
 - **2026-01-19** - Added DQX Blog [Hanging Out in Astoltia](/dqx/2026-01-19/)
 - **2026-01-19** - Added Ōkami HD to games cleared and wrote a review on [Ōkami HD](reviews/Okami-HD.md)
