@@ -11,6 +11,7 @@ New reviews appear here when I write them.
 
 ## Recent Reviews
 
+### [Awaria](reviews/Awaria.md)
 ### [Ys V Kefin](reviews/Ys-5.md)
 ### [Azaran: The Demon Bottle](reviews/Azaran:The-Demon-Bottle.md)
 ### [Ōkami HD](reviews/Okami-HD.md)
