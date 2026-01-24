@@ -1,5 +1,7 @@
 # Awaria
 
+![Awaria image](/assets/reviews/Awaria/header_2x.jpg)
+
 Platformer · PC
 
 Awaria is the kind of game that reminds me why being a PC gamer is worth it.
