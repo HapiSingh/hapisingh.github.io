@@ -21,37 +21,9 @@ I also play **Dragon Quest X**, and I’ll occasionally write about my adventure
 - [Dragon Quest X](dqx.md)
 - [Thoughts](thoughts.md)
 - [Presence](presence.md)
-
+- [Gallery](/gallery/)
 
 I write when I feel like it.
-
-## Art Gallery
-
-A small selection of art made of me.  
-[View the full gallery →](/gallery/)
-
-<div class="gallery-grid">
-
-  <figure class="gallery-item">
-    <a href="/gallery/">
-      <img src="/assets/art/1740214907468.jpg" alt="Art preview">
-    </a>
-  </figure>
-
-  <figure class="gallery-item">
-    <a href="/gallery/">
-      <img src="/assets/art/DQX_HapiThinking.png" alt="Art preview">
-    </a>
-  </figure>
-
-  <figure class="gallery-item">
-    <a href="/gallery/">
-      <img src="/assets/art/KaledrawingMe.png" alt="Art preview">
-    </a>
-  </figure>
-
-</div>
-
 
 
 ## Recent Updates
