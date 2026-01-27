@@ -84,8 +84,8 @@ A collection of art made of me. Huge thanks to the artists. 💛
 
   <!-- FIXED: filename matches repo (spaces) -->
   <figure class="gallery-item">
-    <a href="/assets/art/Hapi_s_DQ10_character%20full%20with%20BG.png" target="_blank" rel="noopener">
-      <img src="/assets/art/Hapi_s_DQ10_character%20full%20with%20BG.png" alt="Art by ARTIST">
+    <a href="/assets/art/Hapi's_DQ10_Character.png" target="_blank" rel="noopener">
+      <img src="/assets/art/Hapi's_DQ10_Character.png" alt="Art by ARTIST">
     </a>
     <figcaption>
       <strong>ARTIST</strong><br>
