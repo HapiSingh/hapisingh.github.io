@@ -25,6 +25,35 @@ I also play **Dragon Quest X**, and I’ll occasionally write about my adventure
 
 I write when I feel like it.
 
+## Art Gallery
+
+A small selection of art made of me.  
+[View the full gallery →](/gallery/)
+
+<div class="gallery-grid">
+
+  <figure class="gallery-item">
+    <a href="/gallery/">
+      <img src="/assets/art/1740214907468.jpg" alt="Art preview">
+    </a>
+  </figure>
+
+  <figure class="gallery-item">
+    <a href="/gallery/">
+      <img src="/assets/art/DQX_HapiThinking.png" alt="Art preview">
+    </a>
+  </figure>
+
+  <figure class="gallery-item">
+    <a href="/gallery/">
+      <img src="/assets/art/KaledrawingMe.png" alt="Art preview">
+    </a>
+  </figure>
+
+</div>
+
+
+
 ## Recent Updates
 - **2026-01-24** - Cleared [Awaria](reviews/Awaria.md) and wrote a review
 - **2026-01-23** - Cleared [Ys V Kefin](reviews/Ys-5.md) and wrote a review
