@@ -41,6 +41,13 @@ A collection of art made of me. Huge thanks to the artists. 💛
   </figure>
 
   <figure class="gallery-item">
+    <a href="/assets/art/8.png" target="_blank" rel="noopener">
+      <img src="/assets/art/8.png" alt="Art by @toachi_puni">
+    </a>
+    <figcaption><strong>@toachi_puni</strong><br><span class="muted">Permission: OK to repost</span></figcaption>
+  </figure>
+  
+  <figure class="gallery-item">
     <a href="/assets/art/20250529_131611.jpg" target="_blank" rel="noopener">
       <img src="/assets/art/20250529_131611.jpg" alt="Art by @ct6jUn1KJi39870">
     </a>
