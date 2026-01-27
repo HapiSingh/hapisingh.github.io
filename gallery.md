@@ -14,7 +14,7 @@ A collection of art made of me. Huge thanks to the artists. 💛
 
   <figure class="gallery-item">
     <a href="/assets/art/1740214907468.jpg" target="_blank" rel="noopener">
-      <img src="/assets/art/1740214907468.jpg" alt="Art by ARTIST">
+      <img src="/assets/art/1740214907468.jpg" alt="Art by @tayungo_O">
     </a>
     <figcaption><strong>ARTIST</strong><br><span class="muted">Permission: OK to repost</span></figcaption>
   </figure>
