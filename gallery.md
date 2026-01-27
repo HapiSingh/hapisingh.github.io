@@ -87,8 +87,12 @@ A collection of art made of me. Huge thanks to the artists. 💛
     <a href="/assets/art/Hapi_s_DQ10_character%20full%20with%20BG.png" target="_blank" rel="noopener">
       <img src="/assets/art/Hapi_s_DQ10_character%20full%20with%20BG.png" alt="Art by ARTIST">
     </a>
-    <figcaption><strong>ARTIST</strong><br><span class="muted">Permission: OK to repost</span></figcaption>
+    <figcaption>
+      <strong>ARTIST</strong><br>
+      <span class="muted">Permission: OK to repost</span>
+    </figcaption>
   </figure>
+
 
   <figure class="gallery-item">
     <a href="/assets/art/IMG_0574-1.jpg" target="_blank" rel="noopener">
@@ -190,8 +194,8 @@ A collection of art made of me. Huge thanks to the artists. 💛
   </figure>
 
   <figure class="gallery-item">
-    <a href="/assets/art/hapiipfp.png" target="_blank" rel="noopener">
-      <img src="/assets/art/hapiipfp.png" alt="Art by ARTIST">
+    <a href="/assets/art/hapiiipfp.png" target="_blank" rel="noopener">
+      <img src="/assets/art/hapiiipfp.png" alt="Art by ARTIST">
     </a>
     <figcaption><strong>ARTIST</strong><br><span class="muted">Permission: OK to repost</span></figcaption>
   </figure>
