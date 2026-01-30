@@ -28,6 +28,7 @@ I write when I feel like it.
 
 ## Recent Updates
 
+- **2026-01-29** -Added DQX Blog [Back because of Ruberangis](/dqx/back-because-of-ruberangis/)
 - **2026-01-27** - Added the [Gallery](/gallery/) page
 - **2026-01-24** - Cleared [Awaria](reviews/Awaria.md) and wrote a review
 - **2026-01-23** - Cleared [Ys V Kefin](reviews/Ys-5.md) and wrote a review
