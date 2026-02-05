@@ -115,6 +115,8 @@ This archive exists to acknowledge the full scope of my writing, not to present 
 - Mega Man X2
 - Mega Man X3
 - Mega Man X4
+- [Mega Man X5](reviews/mega-man-x5.md)
+- [Mega Man X6](reviews/mega-man-x6.md)
 - Mega Man Zero 3
 - Mega Man Zero 4
 - Mega Man ZX
