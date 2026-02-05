@@ -6,6 +6,8 @@ permalink: /games/reviews/mega-man-x6/
 
 <h1>Mega Man X6</h1>
 
+![Mega Man X6 image](/assets/reviews/mega-man-x6/f0ff6a6ed5127a1ab6817f3f38f9ebdc.png)
+
 <p>
 If X5 was fine, this is a clear step below it.
 </p>
