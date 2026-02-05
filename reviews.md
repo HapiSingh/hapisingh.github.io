@@ -11,6 +11,8 @@ New reviews appear here when I write them.
 
 ## Recent Reviews
 
+### [Mega Man X6](reviews/mega-man-x6.md)
+### [Mega Man X5](reviews/mega-man-x5.md)
 ### [Awaria](reviews/Awaria.md)
 ### [Ys V Kefin](reviews/Ys-5.md)
 ### [Azaran: The Demon Bottle](reviews/Azaran:The-Demon-Bottle.md)
