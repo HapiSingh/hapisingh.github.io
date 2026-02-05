@@ -253,6 +253,8 @@ Any deeper reflection lives elsewhere on the site.
 - Mega Man X2
 - Mega Man X3
 - Mega Man X4
+- Mega Man X5
+- Mega Man X6
 - Mega Man X Legacy Collection
 - Mega Man Legacy Collection
 - Mega Man Legacy Collection 2
