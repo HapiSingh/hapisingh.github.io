@@ -8,6 +8,8 @@ permalink: /games/reviews/mega-man-x5/
 
 ![Mega Man X5 image](/assets/reviews/mega-man-x5/0f8b2463ff828decb42e7864468e5cb2.png)
 
+Action Platformer · PS1
+
 <p>
 Mega Man X5 is… fine. It’s a slightly above-average game overall, but as a Mega Man X entry, it lands squarely in “average.”
 </p>
