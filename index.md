@@ -28,6 +28,7 @@ I write when I feel like it.
 
 ## Recent Updates
 
+- **2026-02-12** - Added Dragon Quest VII Reimagined, 100 Capitalist Cats, 100 Robo cats, and 100 Romantic cats to games cleared 
 - **2026-02-05** - Added DQX Blog [A Really Good Stretch in DQX](/dqx/2026-02-05/), added reviews for [Mega Man X5](reviews/mega-man-x5.md) and [Mega Man X6](reviews/mega-man-x6.md)
 - **2026-01-29** - Added DQX Blog [Back because of Ruberangis](/dqx/back-because-of-ruberangis/)
 - **2026-01-27** - Added the [Gallery](/gallery/) page
