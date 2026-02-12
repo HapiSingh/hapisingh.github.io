@@ -105,6 +105,7 @@ Any deeper reflection lives elsewhere on the site.
 - Dragon Quest IV: Chapters of the Chosen
 - Dragon Quest V: Hand of the Heavenly Bride
 - Dragon Quest VI: Realms of Revelation
+- Dragon Quest VII Reimagined
 - Dragon Quest VIII: Journey of the Cursed King
 - DRAGON QUEST® XI S: Echoes of an Elusive Age™ – Definitive Edition
 - Dragon Quest Swords: The Masked Queen and the Tower of Mirrors
