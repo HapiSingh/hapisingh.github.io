@@ -16,6 +16,9 @@ Any deeper reflection lives elsewhere on the site.
 - 100% Orange Juice – Toy Store Pack
 - 100% Orange Juice – Wanderer Pack
 - 100% Orange Juice – Waruda Prison Break Pack
+- 100 Capitalist Cats
+- 100 Romantic cats
+- 100 Robo Cats
 - 8-Bit Bayonetta
 - Acceleration of SUGURI 2
 - Achievement Unlocked
