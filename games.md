@@ -19,6 +19,9 @@ Any deeper reflection lives elsewhere on the site.
 - 100 Capitalist Cats
 - 100 Romantic cats
 - 100 Robo Cats
+- 100 Korea Cats
+- 100 New Year Cats
+- 100 Christmas Cats
 - 8-Bit Bayonetta
 - Acceleration of SUGURI 2
 - Achievement Unlocked
@@ -54,6 +57,7 @@ Any deeper reflection lives elsewhere on the site.
 - Bloodstained: Curse of the Moon
 
 ## C
+- Cats
 - Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda
 - Captain Toad: Treasure Tracker
 - Castle Crashers
@@ -238,6 +242,7 @@ Any deeper reflection lives elsewhere on the site.
 - Marvel’s Spider-Man – The Heist
 - Marvel’s Spider-Man – Turf Wars
 - Marvel’s Spider-Man – Silver Lining
+- MAZEMAZE
 - Mega Man
 - Mega Man 2
 - Mega Man 3
@@ -267,6 +272,7 @@ Any deeper reflection lives elsewhere on the site.
 - Mega Man Zero 3
 - Mega Man Zero 4
 - Mega Man ZX
+- MELLOWOLLEM
 - Metal Gear
 - Metal Gear 2: Solid Snake
 - Metal Gear Solid
